@@ -106,13 +106,13 @@ a:hover { text-decoration: underline;	}
 
 
 /*----breaks between sections----*/
-.border-top {
-  padding-top: 20px;
-  border-top: 2px groove #403933;
-  margin-left: 400px;
-  margin-right: 400px;
+.hrstyle {
+  width: 40%;
+  height: 2px;
+  background-color:#403933;
 }
 
+/*----contact links----*/
 .contactlinks{
   height:40px;
   width:40px;
