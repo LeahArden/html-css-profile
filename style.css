@@ -107,7 +107,7 @@ a:hover { text-decoration: underline;	}
 
 /*----breaks between sections----*/
 .hrstyle {
-  width: 40%;
+  width: 400px;
   height: 2px;
   background-color:#403933;
 }
